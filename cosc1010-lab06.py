@@ -1,8 +1,8 @@
-# Your Name Here
+# Calvin Rasmussen
 # UWYO COSC 1010
-# Submission Date
+# 10/20/24
 # Lab 06
-# Lab Section: 
+# Lab Section: 12
 # Sources, people worked with, help given to: 
 # your
 # comments
